@@ -1,0 +1,11 @@
+html {
+  font-family: "Unifont", monospace
+  }
+body {
+  max-width: 1200px;
+  margin: auto;
+}
+.column {
+  width: 30%;
+  float: left;
+}
